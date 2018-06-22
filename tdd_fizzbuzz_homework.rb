@@ -13,5 +13,7 @@ def fizzbuzz()
 		elsif item %5 == 0
 			item = "Minds"
 		end
+		empty_array << item
 	end
+		empty_array
 end
