@@ -1,0 +1,1 @@
+This program utilizes testing of Ruby code, to see if it fails or passes. Both fails and passes are intentionally done. The program counts from 1 to 100, replacing numbers divisible by 3 with "Mined", replacing numbers divisible by 5 with "Minds" and replacing numbers divisible by both 3 and 5 with "Mined Minds".
